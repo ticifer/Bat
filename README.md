@@ -14,4 +14,4 @@ pip youtube-dl
 例子：248+140<br>
 248为视频文件，根据自己需要选择；720P以上部分合成后格式为mkv<br>
 140为音频文件，格式一般为m4a<br>
-https://github.com/ticifer/moyoo/blob/master/github-images/youtube-dl.png
+https://github.com/ticifer/bat/blob/master/github-images/youtube-dl.png
