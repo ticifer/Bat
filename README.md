@@ -11,6 +11,7 @@ pip youtube-dl
 </pre><br>
 3.下载本脚步，直接运行<br>
 4.自动合成音频和视频：<br>
-例子：140+315<br>
-140为音频，格式一般为m4a<br>
-315为视频，根据自己需要选择；720P以上合成后格式为mkv<br>
+例子：248+140<br>
+248为视频文件，根据自己需要选择；720P以上部分合成后格式为mkv<br>
+140为音频文件，格式一般为m4a<br>
+![image](https://github.com/ticifer/moyoo/blob/master/github-images/youtube-dl.png)
