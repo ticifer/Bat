@@ -1,6 +1,7 @@
 # Bat
-Windows Bat Bsh<br>
-Windows Bat 脚本<br>
+Windows Bat Bash（脚本）<br>
+<hr/>
+Youtube.bat说明<br>
 脚本使用前提：<br>
 1.安装Python2.7或Python3.3<br>
 2.安装Youtube-dl组件：<br>
