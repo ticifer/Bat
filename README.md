@@ -15,4 +15,5 @@ pip youtube-dl
 248为视频文件，根据自己需要选择；720P以上部分合成后格式为mkv<br>
 140为音频文件，格式一般为m4a<br>
 ![]
-(https://github.com/ticifer/bat/raw/master/images/youtube-dl.png)
+(https://github.com/ticifer/bat/raw/master/images/youtube-dl.png)<br>
+![](https://github.com/ticifer/bat/raw/master/images/youtube-dl.png)  
