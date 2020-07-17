@@ -1,10 +1,11 @@
-# Bat
-Windows Bat Bash（脚本）<br>
+# Youtube
+youtube下载（脚本）<br>
 <hr/>
-Youtube.bat说明<br>
+说明<br>
 脚本使用前提：<br>
 1.安装Python2.7或Python3.3<br>
 2.安装Youtube-dl组件：<br>
+3.可用的科学上网<br>
 注：安装方法：<br>
 <pre>
 pip youtube-dl
@@ -18,7 +19,7 @@ pip youtube-dl
 
 Python版本 <br>
 同样自行安装python、youtube-dl，建议安装python3.6或以上<br>
-自行确定使用手动输入文件保存地址还是直接写死<br>
+自行决定使用手动输入文件保存地址还是直接写死<br>
 使用方法：<br>
 python youtube.py
 python3 youtube.py
